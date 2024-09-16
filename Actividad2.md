@@ -36,15 +36,43 @@ Juega un rol importante en mejorar la eficiencia y experiencia del desarrollador
 es eliminar barreras y facilitar el desarrollo ágil de software.
 
 
-![](./Actividad2_images/Parte1.jpg)
+![](./Actividad2_images/Parte1.PNG)
 
-![](./Actividad2_images/Parte2.jpg)
+![](./Actividad2_images/Parte2.PNG)
 
-![](./Actividad2_images/Parte3.jpg)
+![](./Actividad2_images/Parte3.PNG)
 
-![](./Actividad2_images/Parte4.jpg)
+![](./Actividad2_images/Parte4.PNG)
 
-![](./Actividad2_images/Parte5.jpg)
+![](./Actividad2_images/Parte5.PNG)
 
-![](./Actividad2_images/Parte6.jpg)
+![](./Actividad2_images/Parte6.PNG)
+
+![](./Actividad2_images/Parte7a.PNG)
+
+![](./Actividad2_images/Parte7b.PNG)
+
+![](./Actividad2_images/Parte8.PNG)
+
+![](./Actividad2_images/Parte9.PNG)
+
+![](./Actividad2_images/Parte9b.PNG)
+
+![](./Actividad2_images/Parte10.PNG)
+
+![](./Actividad2_images/Parte11.PNG)
+
+![](./Actividad2_images/Parte12.PNG)
+
+![](./Actividad2_images/Parte13.PNG)
+
+![](./Actividad2_images/Parte14.PNG)
+
+![](./Actividad2_images/Parte15.PNG)
+
+![](./Actividad2_images/Parte16.PNG)
+
+![](./Actividad2_images/Parte17.PNG)
+
+
 
